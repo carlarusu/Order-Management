@@ -1,0 +1,12 @@
+client_information: 
+id_tclient=3
+name=ROBERT
+address=613 Korolev Drive
+email=ROBERT.BAUGHMAN@sakilacustomer.org
+age=20
+id_tcountry=3
+country_of_destination: ZIMBABWE
+
+list_of_products: 
+B2 PENCILS,	 amount: 30, 	price_per_unit: 4,	 total_price: 120
+total_amount_to_pay: 120

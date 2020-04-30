@@ -1,0 +1,13 @@
+client_information: 
+id_tclient=2
+name=PATRICIA
+address=53 Idfu Parkway
+email=PATRICIA.JOHNSON@sakilacustomer.org
+age=25
+id_tcountry=1
+country_of_destination: FRANCE
+
+list_of_products: 
+GRAPHITE,	 amount: 10, 	price_per_unit: 6,	 total_price: 60
+HB PENCILS,	 amount: 15, 	price_per_unit: 3,	 total_price: 45
+total_amount_to_pay: 105
